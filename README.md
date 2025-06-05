@@ -62,7 +62,7 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 Vipin Chandra Sao
 
 **🌐 Connect With Me**
-![LinkedIn](https://www.linkedin.com/in/vipinsao/)
-![Github](https://github.com/vipinsao))
-![X.com](https://x.com/vipinSao1))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipinsao/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vipinsao)
+[![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vipinSao1)
 
