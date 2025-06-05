@@ -15,12 +15,6 @@ A real-time multiplayer chess game built using **JavaScript**, **Node.js**, **Ex
 - ❌ Invalid move handling and error feedback
 - 🔄 Live board synchronization across all clients
 
-## 📸 Screenshots
-
-| Player View (White / Black) | Spectator View |
-|-----------------------------|----------------|
-| ![Player Screenshot](./path-to-your-screenshot.png) | ![Spectator Screenshot](./path-to-your-screenshot.png) |
-
 ## 🧰 Tech Stack
 
 - **Frontend**: Vanilla JavaScript, HTML, CSS, EJS Templates
