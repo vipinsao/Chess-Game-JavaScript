@@ -1,13 +1,8 @@
 # ♟️ Real-Time Chess Game
 
-[![GitHub issues](https://img.shields.io/github/issues/vipinsao/chess-game)](https://github.com/vipinsao/chess-game/issues)
-[![GitHub forks](https://img.shields.io/github/forks/vipinsao/chess-game)](https://github.com/vipinsao/chess-game/network)
-[![GitHub stars](https://img.shields.io/github/stars/vipinsao/chess-game)](https://github.com/vipinsao/chess-game/stargazers)
-[![GitHub license](https://img.shields.io/github/license/vipinsao/chess-game)](https://github.com/vipinsao/chess-game/blob/main/LICENSE)
-
 A real-time multiplayer chess game built using **JavaScript**, **Node.js**, **Express.js**, **EJS**, and **Socket.io**. Two players can play against each other with drag-and-drop functionality, while others can join as **spectators** and watch the match live.
 
-![Chess Game Screenshot](./path-to-your-screenshot.png)
+![Chess Game Screenshot](./chess.png)
 
 ## 🚀 Features
 
